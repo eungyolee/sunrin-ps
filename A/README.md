@@ -94,5 +94,8 @@ Gold 5
 no
 ```
 
+## 제한
+시간 제한 : 1초
+
 **문제를 만든 사람** : [eg_lee](https://solved.ac/profile/eg_lee)  
 **문제를 검수한 사람** : [smoo3070](https://solved.ac/profile/smoo3070)
