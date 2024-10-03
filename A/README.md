@@ -38,7 +38,7 @@
 **Bronze 5**
 
 위로 갈수록 문제의 난이도가 높아지고, 아래로 갈수록 문제의 난이도는 쉬워진다.  
-Ruby 1은 가장 쉬운 문제이고, Bronze 5는 가장 어려운 문제이다.  
+Ruby 1은 가장 어려운 문제이고, Bronze 5는 가장 쉬운 문제이다.  
 Ruby, Diamond, Platinum, Gold, Silver, Bronze 순으로 난이도가 쉬워지며, 같은 난이도 내에서는 숫자가 작을수록 더 어려운 문제이다.
 
 승우가 푼 문제의 난이도와 소프트웨어과 학생들이 푼 문제의 난이도가 각각 주어졌을 때 두 문제의 난이도를 비교하여 승우를 특검하자!
@@ -98,4 +98,5 @@ no
 시간 제한 : 1초
 
 **문제를 만든 사람** : [eg_lee](https://solved.ac/profile/eg_lee)  
-**문제를 검수한 사람** : [smoo3070](https://solved.ac/profile/smoo3070)
+**문제를 검수한 사람** : [smoo3070](https://solved.ac/profile/smoo3070)  
+**오타를 찾은 사람** : [nyaneo12](https://solved.ac/profile/nyaneo12)
